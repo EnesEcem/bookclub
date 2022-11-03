@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "commentTranslate.targetLanguage": "tr"
+}

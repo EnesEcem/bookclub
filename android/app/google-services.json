@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "842100858067",
+    "project_id": "bookclub-c929f",
+    "storage_bucket": "bookclub-c929f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842100858067:android:b1a5c727a52f878253c826",
+        "android_client_info": {
+          "package_name": "com.example.bookclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842100858067-gtn80ti3b2puu4617m8lid6i2nlih0aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AJegwit4OIE1du9Wg3qpHu5vphaSzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842100858067-gtn80ti3b2puu4617m8lid6i2nlih0aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842100858067-qtubv6sf2n5h2b337huntvbs2m4h9cjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookclub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842100858067:android:33023681705f757753c826",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842100858067-gtn80ti3b2puu4617m8lid6i2nlih0aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AJegwit4OIE1du9Wg3qpHu5vphaSzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842100858067-gtn80ti3b2puu4617m8lid6i2nlih0aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842100858067-qtubv6sf2n5h2b337huntvbs2m4h9cjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookclub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
